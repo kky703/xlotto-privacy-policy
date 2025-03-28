@@ -1,0 +1,1 @@
+# xlotto-privacy-policy
