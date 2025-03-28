@@ -1,7 +1,7 @@
 # X 로또 개인정보 처리방침
 
 ## 1. 개인정보의 처리 목적
-X 로또('https://github.com/kky703/xlotto-privacy-policy'이하 'X 로또')은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
+X 로또('https://github.com/kky703/xlotto-privacy-policy' 'X 로또')은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
 
 - 광고 식별자(Advertising ID) : 맞춤형 광고 제공
 
